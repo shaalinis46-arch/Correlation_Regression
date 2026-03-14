@@ -61,6 +61,10 @@ plt.show()
 ```
 
 # Output 
+39 21 34 26 38 45 52 34 49 54 
+27 26 34 38 47 42 24 38 45 29
+The Correlation coefficient is 0.012
+The Regression line Y on X is ::: y = 35.000 + 0.009 (x-39.200)
 
 # Result
 The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
